@@ -1,0 +1,31 @@
+.todo-wrapper {
+  margin:0;
+  padding:0;
+}
+
+.todo-input {
+  margin-bottom: 2em;
+  
+
+}
+
+#todo-form input {
+  padding: 7px 12px;
+  border-radius: 4px;
+  background: #fafafa;
+}
+
+
+
+.todo-response {
+  border: 1px solid #9e9e9e;
+  background:#fafafa;
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 450px;
+  margin:2em 0;
+  padding:20px;
+
+
+}
