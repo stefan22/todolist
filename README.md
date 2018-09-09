@@ -5,4 +5,4 @@
 
 <br />
 
-![](public/assets/images/littledo.png)
+![](public/littledo.png)
